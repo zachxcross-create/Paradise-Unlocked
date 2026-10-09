@@ -11,7 +11,7 @@ Unlocks villager-associated Happy Home Paradise decorating furniture in Animal C
 5. Select your save ZIP and click **Unlock furniture**.
 6. Extract the downloaded ZIP and restore the patched **`0`** folder to your emulator's save location.
 
-The tool processes files locally in your browser. No data is sent to a server. DIY recipes are not separately unlocked; optional NHSE steps are included in the interface.
+The tool processes files locally in your browser. No data is sent to a server. **DIY recipes are not unlocked** or available for use in client home designs unless you follow the additional instructions. After opening Launch Save Editor.html -- scroll down and expand the accordion menu labeled "Optional: Unlock DIY Furniture" and follow those steps to access DIY furniture when designing homes.
 
 Tested with **ACNH 3.0.3**. Other versions may work but have not been tested. Always keep a backup.
 
