@@ -7,7 +7,7 @@ Unlocks villager-associated Happy Home Paradise decorating furniture in Animal C
 1. Back up your save and close the game.
 2. In your emulator, open the Animal Crossing user save directory.
 3. Compress the entire **`0`** folder into a ZIP file.
-4. Open **`index.html`** in Chrome or Edge.
+4. Open **`Launch Save Editor.html`** in Chrome or Edge.
 5. Select your save ZIP and click **Unlock furniture**.
 6. Extract the downloaded ZIP and restore the patched **`0`** folder to your emulator's save location.
 
